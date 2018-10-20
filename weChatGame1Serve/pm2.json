@@ -1,0 +1,15 @@
+{
+  "apps": [{
+    "name": "weChatGame1Serve",
+    "script": "production.js",
+    "cwd": "/Users/wm/weChatGameServe/weChatGame1Serve",
+    "exec_mode": "fork",
+    "max_memory_restart": "1G",
+    "autorestart": true,
+    "node_args": [],
+    "args": [],
+    "env": {
+      
+    }
+  }]
+}
